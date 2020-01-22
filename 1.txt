@@ -1,2 +1,6 @@
 hi from 1
+<<<<<<< HEAD
 hello from 1
+=======
+creating conflicts
+>>>>>>> d5cc2fa4dd2f62fe956ef983627f9212049f4120
